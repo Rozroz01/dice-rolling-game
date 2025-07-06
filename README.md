@@ -30,3 +30,7 @@ The total score is displayed at the end of the game.
 - Python 3.x
 
 No external dependencies are required.
+
+## License
+
+This project is licensed under the MIT License.
